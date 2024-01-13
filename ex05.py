@@ -17,7 +17,9 @@ while i < len(lista):
         print(elemento)
     elif elemento == 'verde':
         i += 1
+        print(elemento)
         continue # interrompe o laço atual
     else:
+        print(elemento)
         break # interrompe a repetição
     i += 1
