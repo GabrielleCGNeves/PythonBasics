@@ -13,9 +13,9 @@ print("====== Informações ======")
 print(f"Cliente: {nome}, {idade} anos")
 
 if idade >= 18:
-	print("Maior de Idade")
+	print("Maior de Idade, pode tirar CHN")
 else:
-	print("Menor de Idade")
+	print("Menor de Idade, estude")
 
 for item in lista_de_compras:
 	if item == "Leite":
