@@ -1,4 +1,4 @@
-# Interação na lista
+# Interação em listas
 
 # Instruções de repetição
 lista = ['azul', 'verde', 'roxo']
@@ -10,16 +10,19 @@ lista = ['azul', 'verde', 'roxo']
 #   print("Elemento de posição 2 na lista: " + lista[1])
 
 # while
-i = 0
-while i < len(lista):
-    elemento = lista[i]
-    if elemento == 'azul':
-        print(elemento)
-    elif elemento == 'verde':
-        i += 1
-        print(elemento)
-        continue # interrompe o laço atual
-    else:
-        print(elemento)
-        break # interrompe a repetição
-    i += 1
+# i = 0
+# while i < len(lista):
+#     elemento = lista[i]
+#     if elemento == 'azul':
+#         print(elemento)
+#     elif elemento == 'verde':
+#         i += 1
+#         print(elemento)
+#         continue # interrompe o laço atual
+#     else:
+#         print(elemento)
+#         break # interrompe a repetição
+#     i += 1
+
+
+  
