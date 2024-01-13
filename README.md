@@ -16,5 +16,5 @@
 </div>
 
 ---
-> Aulas iniciais d curso de Python para Cibersegurança oferecido pelo Senai
+> Aulas iniciais do curso de Python para Cibersegurança oferecido pelo Senai
 ---
