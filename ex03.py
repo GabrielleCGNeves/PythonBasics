@@ -11,3 +11,5 @@ print(tupla)
 print(conjunto)
 print(dicionario)
 print(matriz)
+
+print(type(matriz))
